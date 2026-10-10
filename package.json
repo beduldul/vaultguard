@@ -1,0 +1,21 @@
+{
+  "name": "vaultguard",
+  "version": "0.1.0",
+  "description": "On-chain security threat registry (Anchor)",
+  "license": "MIT",
+  "scripts": {
+    "test": "anchor test"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "0.30.1",
+    "bn.js": "5.2.1"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.16",
+    "@types/mocha": "^10.0.7",
+    "chai": "^4.4.1",
+    "mocha": "^10.7.0",
+    "ts-mocha": "^10.0.0",
+    "typescript": "^5.5.4"
+  }
+}
